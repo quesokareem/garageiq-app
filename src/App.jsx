@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 function GarageIQ() {
   const [message, setMessage] = useState("");
